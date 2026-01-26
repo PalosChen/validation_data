@@ -99,3 +99,4 @@ Registration Agency,URL,Country,State/Province,Locality,State/Province English,L
 江南省测试市场监督管理局,https://qyxy.scjgj.beijing.gov.cn/update2,CN,江南省,测试市,Jiangnan,Ceshi District,^[a-zA-Z0-9]*$,2026/01/21
 rikki test,https://qyxy.scjgj.beijing.gov.cn/update2,CN,四川sc,成都cd,Si Chuan Chuan,ChengDuDu,222aaaaaa,2026/01/23
 四川成都市市场监督管理局5,https://www.bjdch.gov.cn/zwgk/jgdh/qzfzcbmdh/qscjgj/jgzzsgj/201903/t20190322_3018502.html,CN,四川,成都,SiChuan,Chengdu,^[a-zA-Z0-14]*$,2026/01/23
+测试机构注册,https://www.baidu.com,HK,香港特别行政区,闵行区,HK,MH,,2026/01/26
