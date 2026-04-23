@@ -110,3 +110,4 @@ Test0326测试修改,https://myssl.com/,CN,天津市,天津市,,,,2026/03/26
 平潭综合实验区市场监督管理局,https://www.pingtan.gov.cn/site/main/info/gov_ml_list.jsp?dept_id=4873&catalog_id=0,CN,福建省,福州市,Fujian Province,Pingtan County,^[a-zA-Z0-9]*$,2026/04/02
 Test04013,https://myssl.com/,LB,北京市,东城区,Beijing,Dongcheng District,^[a-zA-Z0-9]*$,2026/04/08
 Test04012,,RO,北京市,东城区,Beijing,Dongcheng District,^[a-zA-Z0-9]*$,2026/04/08
+测试0423,,CN,上海市,上海市,,上海市,^[a-zA-Z0-9]*$,2026/04/23
