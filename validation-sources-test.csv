@@ -128,3 +128,4 @@ TC40532_UI_20261030_171029_7e0ca,https://example.com/,CN,Regression,Regression,,
 TC40532_UI_20261030_171932_1754a,https://example.com/,CN,Regression,Regression,,,^[a-zA-Z0-9]*$,2026/10/30
 TC40532_UI_20261103_195548_fcf54,https://example.com/,CN,Regression,Regression,,,^[a-zA-Z0-9]*$,2026/11/03
 TC40532_UI_20261117_141437_5c335,https://example.com/,CN,Regression,Regression,,,^[a-zA-Z0-9]*$,2026/11/17
+TC40532_UI_20261117_165058_9fe86,https://example.com/,CN,Regression,Regression,,,^[a-zA-Z0-9]*$,2026/11/17
